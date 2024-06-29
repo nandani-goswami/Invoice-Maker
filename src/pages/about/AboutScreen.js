@@ -20,7 +20,7 @@ function AboutScreen() {
                 className="underline cursor-pointer"
                 rel="noreferrer"
               >
-                Hi, I'm Chitra Sarkar
+                Hi, I'm Nandani Goswami
               </a>
               <h1> Free Invoice Maker for your business.</h1>
             </div>
@@ -42,14 +42,14 @@ function AboutScreen() {
             <div>
               📫 How to reach me{" "}
               <a
-                href="mailto:chitranisha08@gmail.com"
+                href="mailto:goswaminandani29@gmail.com"
                 className="underline cursor-pointer"
               >
-                chitranisha08@gmail.com
+                goswaminandani29@gmail.com
               </a>{" "}
               (or){" "}
               <a
-                href="https://www.linkedin.com/in/chitra-sarkar-044969227/"
+                href="https://www.linkedin.com/in/nandanigoswami/"
                 target={"_blank"}
                 className="underline cursor-pointer"
                 rel="noreferrer"
@@ -57,18 +57,7 @@ function AboutScreen() {
                 Linkedin
               </a>
             </div>
-            <div>
-              <span>🎁 </span>
-              <a
-                href="https://github.com/testloto/Invoice_Maker_App"
-                className="underline cursor-pointer"
-                target={"_blank"}
-                rel="noreferrer"
-              >
-                {" "}
-                Repo Link Here
-              </a>
-            </div>
+           
           </div>
 
           <PageTitle title="Build By" />
@@ -81,18 +70,7 @@ function AboutScreen() {
             </ul>
           </div>
 
-          <PageTitle title="Contact" />
-          <div className="mt-2 pl-1 text-sm">
-            <a
-              href="tel:+91 8349688598"
-              className="underline cursor-pointer"
-              target={"_blank"}
-              rel="noreferrer"
-            >
-              {" "}
-              +91 8349688598
-            </a>
-          </div>
+         
         </div>
       </div>
     </div>
